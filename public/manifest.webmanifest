@@ -1,0 +1,14 @@
+{
+  "name": "EcoCollecte - Collecte des ordures",
+  "short_name": "EcoCollecte",
+  "description": "Application de demande, suivi et gestion des collectes d'ordures.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f5",
+  "theme_color": "#137a54",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
